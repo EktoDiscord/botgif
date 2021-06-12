@@ -7,3 +7,6 @@ Bot Gif pour vos serveur gif !
 4. Dans token mettez le token de votre bot
 5. faites npm i quick.db discord.js
 6. Et faites node index.js pour démarrer le bot !
+
+
+fait par iroo 🕊#2021
