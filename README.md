@@ -1,2 +1,2 @@
-# botgif
-Bot Gif pour serveur gif
+# Bot Gif
+Bot Gif pour vos serveur gif !
